@@ -1,0 +1,82 @@
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1771425813677}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1771425817669}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:MAIN_START", "message": "Starting app main block", "data": {}, "timestamp": 1771425817672}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_START", "message": "Creating all DB tables", "data": {}, "timestamp": 1771425817673}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_SUCCESS", "message": "DB tables created", "data": {}, "timestamp": 1771425817704}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H4", "location": "app.py:FLASK_RUN_START", "message": "Calling app.run()", "data": {"debug": true}, "timestamp": 1771425817706}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1771425819973}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1771425822313}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:MAIN_START", "message": "Starting app main block", "data": {}, "timestamp": 1771425822321}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_START", "message": "Creating all DB tables", "data": {}, "timestamp": 1771425822332}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_SUCCESS", "message": "DB tables created", "data": {}, "timestamp": 1771425822347}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H4", "location": "app.py:FLASK_RUN_START", "message": "Calling app.run()", "data": {"debug": true}, "timestamp": 1771425822350}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1771589094637}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1771589120056}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:MAIN_START", "message": "Starting app main block", "data": {}, "timestamp": 1771589120059}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_START", "message": "Creating all DB tables", "data": {}, "timestamp": 1771589120061}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_SUCCESS", "message": "DB tables created", "data": {}, "timestamp": 1771589120101}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H4", "location": "app.py:FLASK_RUN_START", "message": "Calling app.run()", "data": {"debug": true}, "timestamp": 1771589120103}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1771589122595}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1771589127892}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:MAIN_START", "message": "Starting app main block", "data": {}, "timestamp": 1771589127897}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_START", "message": "Creating all DB tables", "data": {}, "timestamp": 1771589127898}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_SUCCESS", "message": "DB tables created", "data": {}, "timestamp": 1771589127904}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H4", "location": "app.py:FLASK_RUN_START", "message": "Calling app.run()", "data": {"debug": true}, "timestamp": 1771589127906}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1771893351504}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1771893367407}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:MAIN_START", "message": "Starting app main block", "data": {}, "timestamp": 1771893367411}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_START", "message": "Creating all DB tables", "data": {}, "timestamp": 1771893367411}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_SUCCESS", "message": "DB tables created", "data": {}, "timestamp": 1771893367449}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H4", "location": "app.py:FLASK_RUN_START", "message": "Calling app.run()", "data": {"debug": true}, "timestamp": 1771893367450}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1771893369701}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1771893371960}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:MAIN_START", "message": "Starting app main block", "data": {}, "timestamp": 1771893371964}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_START", "message": "Creating all DB tables", "data": {}, "timestamp": 1771893371964}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_SUCCESS", "message": "DB tables created", "data": {}, "timestamp": 1771893371968}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H4", "location": "app.py:FLASK_RUN_START", "message": "Calling app.run()", "data": {"debug": true}, "timestamp": 1771893371969}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1771939770482}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1771939780361}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:MAIN_START", "message": "Starting app main block", "data": {}, "timestamp": 1771939780364}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_START", "message": "Creating all DB tables", "data": {}, "timestamp": 1771939780364}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_SUCCESS", "message": "DB tables created", "data": {}, "timestamp": 1771939780387}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H4", "location": "app.py:FLASK_RUN_START", "message": "Calling app.run()", "data": {"debug": true}, "timestamp": 1771939780388}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1771939875661}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1771939877028}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:MAIN_START", "message": "Starting app main block", "data": {}, "timestamp": 1771939877031}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_START", "message": "Creating all DB tables", "data": {}, "timestamp": 1771939877031}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_SUCCESS", "message": "DB tables created", "data": {}, "timestamp": 1771939877034}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H4", "location": "app.py:FLASK_RUN_START", "message": "Calling app.run()", "data": {"debug": true}, "timestamp": 1771939877035}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1771940301189}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1771940302496}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1771940303647}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1771940305119}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1771941164797}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1771941168234}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:MAIN_START", "message": "Starting app main block", "data": {}, "timestamp": 1771941168238}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_START", "message": "Creating all DB tables", "data": {}, "timestamp": 1771941168239}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_SUCCESS", "message": "DB tables created", "data": {}, "timestamp": 1771941168244}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H4", "location": "app.py:FLASK_RUN_START", "message": "Calling app.run()", "data": {"debug": true}, "timestamp": 1771941168245}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1772026468458}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1772026485329}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:MAIN_START", "message": "Starting app main block", "data": {}, "timestamp": 1772026485335}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_START", "message": "Creating all DB tables", "data": {}, "timestamp": 1772026485337}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_SUCCESS", "message": "DB tables created", "data": {}, "timestamp": 1772026485368}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H4", "location": "app.py:FLASK_RUN_START", "message": "Calling app.run()", "data": {"debug": true}, "timestamp": 1772026485370}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1772026487322}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1772026489425}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:MAIN_START", "message": "Starting app main block", "data": {}, "timestamp": 1772026489430}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_START", "message": "Creating all DB tables", "data": {}, "timestamp": 1772026489431}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_SUCCESS", "message": "DB tables created", "data": {}, "timestamp": 1772026489434}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H4", "location": "app.py:FLASK_RUN_START", "message": "Calling app.run()", "data": {"debug": true}, "timestamp": 1772026489435}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1772031718055}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1772031733755}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:MAIN_START", "message": "Starting app main block", "data": {}, "timestamp": 1772031733759}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_START", "message": "Creating all DB tables", "data": {}, "timestamp": 1772031733760}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_SUCCESS", "message": "DB tables created", "data": {}, "timestamp": 1772031733781}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H4", "location": "app.py:FLASK_RUN_START", "message": "Calling app.run()", "data": {"debug": true}, "timestamp": 1772031733783}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_START", "message": "Starting model and vectorizer load", "data": {}, "timestamp": 1772031734909}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H2", "location": "app.py:MODEL_LOAD_SUCCESS", "message": "Model and vectorizer loaded", "data": {}, "timestamp": 1772031736570}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:MAIN_START", "message": "Starting app main block", "data": {}, "timestamp": 1772031736572}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_START", "message": "Creating all DB tables", "data": {}, "timestamp": 1772031736572}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H3", "location": "app.py:DB_CREATE_SUCCESS", "message": "DB tables created", "data": {}, "timestamp": 1772031736576}
+{"sessionId": "5e11ae", "runId": "run1", "hypothesisId": "H4", "location": "app.py:FLASK_RUN_START", "message": "Calling app.run()", "data": {"debug": true}, "timestamp": 1772031736577}
